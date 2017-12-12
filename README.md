@@ -1,1 +1,0 @@
-# odoo-integrations-deprecated
